@@ -2,7 +2,7 @@
 
 Simple /gm command usable by non-ops for Fabric 1.19
 
-Usage: /gm <gamemode>
+Usage: /gm \<gamemode\>
 
 Aliases for gamemodes:
 
